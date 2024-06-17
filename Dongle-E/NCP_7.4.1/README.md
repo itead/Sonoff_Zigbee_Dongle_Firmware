@@ -11,11 +11,9 @@ This Zigbee NCP firmware has only been tested on the EFR32MG21 based "Zigbee 3.0
 * https://itead.cc/product/zigbee-3-0-usb-dongle/
 
 ## Recommended firmware
-At the time of writting (2024-06-17) EmberZNet Zigbee version 7.4.1.0 firmware is recommended for the ZHA integration in Home Assistant (which depends on the open source zigpy and bellows libraries):
-
 * ncp-uart-sw_EZNet7.4.1_V1.0.0.gbl
 
-The same firmware version has also been confirmed to work with  Zigbee2MQTT
+The  firmware version has also been confirmed to work with  Zigbee2MQTT
 
 
 
